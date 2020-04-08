@@ -62,4 +62,36 @@ http://2019-coronavirus-tracker.com/
 
 http://2019-coronavirus-tracker.com/stochastic-model.html
 
+https://covid19.alpaka.si/
 
+http://www.ox.ac.uk/coronavirus-research
+
+https://covid19mm.github.io/in-progress/2020/03/25/second-report.html
+
+https://covid-19-stats.si/?fbclid=IwAR198kdigNGqiYDF4Ap_RFSNDuH_gBA6h12fGG-nJpSL9JITxZEWzHja8iI
+
+http://www.healthdata.org/research-article/forecasting-covid-19-impact-hospital-bed-days-icu-days-ventilator-days-and-deaths
+
+https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/
+
+https://github.com/DataForScience/Epidemiology101
+
+https://medium.com/data-for-science/epidemic-modeling-101-or-why-your-covid19-exponential-fits-are-wrong-97aa50c55f8
+
+https://github.com/karpathy/covid-sanity
+
+https://www.quiverquant.com/covidtreatments/
+
+https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=COVID-19&terms-0-field=title&terms-1-operator=OR&terms-1-term=SARS-CoV-2&terms-1-field=abstract&terms-3-operator=OR&terms-3-term=COVID-19&terms-3-field=abstract&terms-4-operator=OR&terms-4-term=SARS-CoV-2&terms-4-field=title&terms-5-operator=OR&terms-5-term=coronavirus&terms-5-field=title&terms-6-operator=OR&terms-6-term=coronavirus&terms-6-field=abstract&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=200&order=-announced_date_first&source=home-covid-19
+
+https://pacs.zf.uni-lj.si/shinyR/apps/projects/CoronaSim/
+
+https://www.google.com/covid19/mobility/
+
+https://covid19maribor.si/novice/
+
+https://covid19maribor.si/
+
+https://medium.com/data-for-science/epidemic-modeling-102-all-covid-19-models-are-wrong-but-some-are-useful-c81202cc6ee9
+
+http://rocs.hu-berlin.de/corona/docs/forecast/model/
